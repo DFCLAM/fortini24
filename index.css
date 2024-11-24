@@ -537,14 +537,8 @@
 }
 
 .u-section-4 .u-table-cell-20 {
-  font-style: italic;
-}
-
-.u-section-4 .u-btn-1 {
-  background-image: none;
-  text-transform: none;
   font-weight: 700;
-  padding: 0;
+  font-style: normal;
 }
 
 .u-section-4 .u-table-cell-21 {
@@ -560,7 +554,7 @@
   font-weight: 600;
 }
 
-.u-section-4 .u-btn-2 {
+.u-section-4 .u-btn-1 {
   background-image: none;
   text-transform: none;
   font-weight: 400;
@@ -576,15 +570,8 @@
 }
 
 .u-section-4 .u-table-cell-26 {
-  font-weight: 400;
-  font-style: italic;
-}
-
-.u-section-4 .u-btn-3 {
-  background-image: none;
-  text-transform: none;
   font-weight: 700;
-  padding: 0;
+  font-style: normal;
 }
 
 .u-section-4 .u-table-cell-27 {
@@ -601,7 +588,7 @@
   font-style: italic;
 }
 
-.u-section-4 .u-btn-4 {
+.u-section-4 .u-btn-2 {
   background-image: none;
   text-transform: none;
   font-weight: 400;
@@ -634,14 +621,7 @@
 }
 
 .u-section-4 .u-table-cell-35 {
-  font-weight: 400;
-}
-
-.u-section-4 .u-btn-5 {
-  background-image: none;
-  text-transform: none;
   font-weight: 700;
-  padding: 0;
 }
 
 .u-section-4 .u-table-cell-36 {
@@ -667,14 +647,7 @@
 }
 
 .u-section-4 .u-table-cell-41 {
-  font-weight: 400;
-}
-
-.u-section-4 .u-btn-6 {
-  background-image: none;
-  text-transform: none;
   font-weight: 700;
-  padding: 0;
 }
 
 .u-section-4 .u-table-cell-42 {
@@ -682,7 +655,7 @@
   font-style: normal;
 }
 
-.u-section-4 .u-btn-7 {
+.u-section-4 .u-btn-3 {
   background-image: none;
   text-transform: none;
   font-style: italic;
